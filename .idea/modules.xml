@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CTCI_Idea.iml" filepath="$PROJECT_DIR$/CTCI_Idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CTCI_Problem001_ArraysAndStrings_1_1_IsUnique_A/CTCI_Problem001_ArraysAndStrings_1_1_IsUnique_A.iml" filepath="$PROJECT_DIR$/CTCI_Problem001_ArraysAndStrings_1_1_IsUnique_A/CTCI_Problem001_ArraysAndStrings_1_1_IsUnique_A.iml" />
+    </modules>
+  </component>
+</project>
